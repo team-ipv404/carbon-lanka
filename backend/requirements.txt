@@ -3,7 +3,7 @@ uvicorn[standard]==0.30.6
 pydantic==2.9.2
 pydantic-settings==2.5.2
 sqlmodel==0.0.21
-aiosqlite==0.20.0
+aiosqlite==0.22.1
 numpy==2.1.1
 scipy==1.14.1
 scikit-learn==1.5.2
